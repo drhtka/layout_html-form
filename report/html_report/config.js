@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Entire_document-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Entire_document-0.png",
         "selector": "document",
         "fileName": "Entire_document-0.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.01",
-          "analysisTime": 46
+          "analysisTime": 91
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Form-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Form-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Form-0.png",
         "selector": "form",
         "fileName": "Form-0.png",
         "label": "Form",
@@ -46,7 +46,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.01",
-          "analysisTime": 47
+          "analysisTime": 80
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Fieldset_tag-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Fieldset_tag-0.png",
         "selector": "fieldset",
         "fileName": "Fieldset_tag-0.png",
         "label": "Fieldset tag",
@@ -71,7 +71,7 @@ report({
             "height": 0
           },
           "misMatchPercentage": "0.04",
-          "analysisTime": 33
+          "analysisTime": 34
         }
       },
       "status": "pass"
@@ -79,7 +79,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-1.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Fieldset_tag-1.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Fieldset_tag-1.png",
         "selector": "fieldset.__n1",
         "fileName": "Fieldset_tag-1.png",
         "label": "Fieldset tag",
@@ -103,7 +103,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-2.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Fieldset_tag-2.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Fieldset_tag-2.png",
         "selector": "fieldset.__n2",
         "fileName": "Fieldset_tag-2.png",
         "label": "Fieldset tag",
@@ -127,7 +127,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-3.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Fieldset_tag-3.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Fieldset_tag-3.png",
         "selector": "fieldset.__n3",
         "fileName": "Fieldset_tag-3.png",
         "label": "Fieldset tag",
@@ -151,7 +151,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Submit_button-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Submit_button-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Submit_button-0.png",
         "selector": "[type=\"submit\"]",
         "fileName": "Submit_button-0.png",
         "label": "Submit button",
@@ -175,7 +175,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Email_with_placeholder-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Email_with_placeholder-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Email_with_placeholder-0.png",
         "selector": "[type=\"email\"][placeholder]",
         "fileName": "Email_with_placeholder-0.png",
         "label": "Email with placeholder",
@@ -199,7 +199,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Number_with_value-0.png",
-        "test": "..\\bitmaps_test\\20220908-102506\\Number_with_value-0.png",
+        "test": "..\\bitmaps_test\\20220914-225919\\Number_with_value-0.png",
         "selector": "[type=\"number\"][value]",
         "fileName": "Number_with_value-0.png",
         "label": "Number with value",
